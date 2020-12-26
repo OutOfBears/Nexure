@@ -6,3 +6,7 @@
 
 # Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=117591910&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+# Contacts
+[![a](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/nexure)
+[![a](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nexure_)
