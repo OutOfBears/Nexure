@@ -1,3 +1,6 @@
+# About
+I do programming in various fields, such as web development (front-end and back-end), and game development! Most of the projects you may see on here are mostly hobbyist.
+
 # Stats
 ![Nexure's github stats](https://github-readme-stats.vercel.app/api?username=nexure&count_private=true&show_icons=true&theme=dark)
 
